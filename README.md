@@ -2,10 +2,6 @@
 
 Contiene un proyecto para administracion de encuestas, para ingresar como administradors es necesario ingresar una credencial, pro defecto se dejo el usuario `admin` y contraseña `admin`.
 
-Apk para android:
-
-[Link](./app-debug.apk)
-
 Acciones posibles:
 
 - Crear encuestas: requiere nomnbre, descripcion y campos dentor de la encuesta.
