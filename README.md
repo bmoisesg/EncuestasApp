@@ -2,6 +2,9 @@
 
 Contiene un proyecto para administracion de encuestas, para ingresar como administradors es necesario ingresar una credencial, pro defecto se dejo el usuario `admin` y contraseña `admin`.
 
+Link apk android:
+[Link apk android](./app-armeabi-v7a-release.apk)
+
 Acciones posibles:
 
 - Crear encuestas: requiere nomnbre, descripcion y campos dentor de la encuesta.
